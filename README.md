@@ -67,7 +67,7 @@ You can get your API key for free by signing up at https://api-ninjas.com/regist
 📌 Setup Instructions
 ---------------------
 1. Clone the repository:
-   git clone https://github.com/yourusername/random-quote-generator.git
+   git clone https://github.com/billalwp/dynamicquotegenerator.git
 
 2. Get your free API key from API Ninjas: https://api-ninjas.com/api/quotes
 
