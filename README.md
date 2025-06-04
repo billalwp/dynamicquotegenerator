@@ -7,7 +7,6 @@ A clean and dynamic Random Quote Generator web app that fetches inspirational qu
 🚀 Live Preview
 ---------------
 Click here to view it live: https://billalwp.github.io/dynamicquotegenerator/
-(Replace this with your GitHub Pages or Netlify link)
 
 🔧 Features
 -----------
